@@ -35,3 +35,6 @@ function reduceToAnyTrue(values) {
             return true;
         }
 
+return false;
+    }, false);
+} 
